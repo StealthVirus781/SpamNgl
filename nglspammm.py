@@ -31,7 +31,7 @@ def main():
                                                        
                                                        
         
-        \033[91mStealth Virus lang to Kalma
+        \033[91mAng Pogi Mo Zeus
         """
         github_link = "https://github.com/StealthVirus781"
         facebook_link = "Zeus Lee Monticello"
