@@ -53,8 +53,8 @@ def main():
         message = input("\033[91mEnter message:~ \033[1;91m")
         amount = int(input("\033[91mEnter amount:~ \033[1;91m"))
         
-        if amount > 100:
-            print("Sorry, the limit is 100.")
+        if amount > 99999:
+            print("Sumubra kana 99999 lang Yung limit.")
         else:
             for i in range(1, amount + 1):
                 status_code = sendSpam(user, message)
