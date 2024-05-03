@@ -31,7 +31,7 @@ def main():
                                                        
                                                        
         
-        \033[91mAng Pogi Mo Zeus
+        \033[91mThe Only Girl I Want Is Kim🫶
         """
         github_link = "https://github.com/StealthVirus781"
         facebook_link = "Zeus Lee Monticello"
@@ -62,7 +62,7 @@ def main():
                 print(text)
                 time.sleep(2)
         
-            print('\n\033[91mLow Specs Oy. :)\033[0m')
+            print('\n\033[91mDagdagan mo pa seguro nakukulangan kapa! :)\033[0m')
         
         time.sleep(3) 
         os.system('clear' if os.name == 'posix' else 'cls') 
