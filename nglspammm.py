@@ -31,7 +31,7 @@ def main():
                                                        
                                                        
         
-        \033[91mThe Only Girl I Want Is Kim
+        \033[91mPogi Mo Zeus!
         """
         github_link = "https://github.com/StealthVirus781"
         facebook_link = "Zeus Lee Monticello"
