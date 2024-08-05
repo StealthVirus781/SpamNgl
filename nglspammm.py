@@ -31,10 +31,10 @@ def main():
                                                        
                                                        
         
-        \033[91mPogi Mo Zeus!
+        \033[91mAuthenticity lang malakas!
         """
         github_link = "https://github.com/StealthVirus781"
-        facebook_link = "Zeus Lee Monticello"
+        facebook_link = "Ken Oscar"
 
         banner_text_wrapped = textwrap.fill(banner_text, width=40)
         github_link_wrapped = textwrap.fill(github_link, width=40)
